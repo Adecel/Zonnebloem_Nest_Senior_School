@@ -39,6 +39,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Welcome.apps.WelcomeConfig',
     'CareerAdvice.apps.CareeradviceConfig',
+    'Contact.apps.ContactConfig',
+    'Matric.apps.MatricConfig',
+    'Admission.apps.AdmissionConfig',
 ]
 
 MIDDLEWARE = [
